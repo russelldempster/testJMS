@@ -1,2 +1,3 @@
 # testJMS
-A simple test project using JMS
+It's the weekend
+And there's more
